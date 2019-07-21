@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on Code Commander</title>
-    <link>https://example.org/static/</link>
+    <link>https://karanveersp.github.io/codecommander/static/</link>
     <description>Recent content in Statics on Code Commander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Karanveer</copyright>
     <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karanveersp.github.io/codecommander/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.org/static/about/</link>
+      <link>https://karanveersp.github.io/codecommander/static/about/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/static/about/</guid>
+      <guid>https://karanveersp.github.io/codecommander/static/about/</guid>
       <description>Hi there
 My name is Karanveer and I&amp;rsquo;m the author of this blog.
 I&amp;rsquo;m a software developer who enjoys working with many languages. Currently, I&amp;rsquo;m working with Python with a little bit of Java.
