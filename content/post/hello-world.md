@@ -1,7 +1,6 @@
 ---
 title: "Hello World!"
-date: 2019-07-21T15:11:29-04:00
-draft: false
+date: 2019-07-21
 tags: ["python", "introduction"]
 ---
 

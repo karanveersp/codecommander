@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Karanveer</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 15:11:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://karanveersp.github.io/codecommander/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Hello World!</title>
       <link>https://karanveersp.github.io/codecommander/2019/07/hello-world/</link>
-      <pubDate>Sun, 21 Jul 2019 15:11:29 -0400</pubDate>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://karanveersp.github.io/codecommander/2019/07/hello-world/</guid>
       <description>And so another exciting, insightful journey begins. This is a programming blog for me to share code tutorials with the world.
