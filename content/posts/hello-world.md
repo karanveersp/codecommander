@@ -20,7 +20,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-See the three chevrons `>>>`? That's python waiting for you to tell it what to do! You can type basic `expressions` like `1+1` or `49/64` and the python interpretor will evaluate them. 
+See the three chevrons `>>>` ? That's python waiting for you to tell it what to do! You can type basic *expressions* like `1+1` or `49/64` and the python interpretor will evaluate them. 
 
 Now, you are ready to issue your first command to your computer! How exciting!
 
