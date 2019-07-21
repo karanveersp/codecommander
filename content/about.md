@@ -2,6 +2,9 @@
 title = "About"
 date = "2019-07-18"
 author = "Karanveer"
+sharingicons = false
+comments = false
+
 +++
 
 Hi there

@@ -9,7 +9,7 @@ paginate = 5
 # optionally override the site's footer with custom copyright text
 copyright = "&copy; 2019 Karanveer"
 #googleAnalytics = "UA-123-45"
-#disqusShortname = "XYW"
+disqusShortname = "https-karanveersp-github-io-codecommander"
 
 publishDir = "docs"
 
@@ -64,7 +64,7 @@ publishDir = "docs"
   #cookie_consent_info_url = "http://cookiesandyou.com"
 
   # show sharing icons on pages/posts (default: true)
-  sharingicons = false
+  sharingicons = true
 
   # Display post summaries instead of content in list templates (default: true)
   truncate = true
