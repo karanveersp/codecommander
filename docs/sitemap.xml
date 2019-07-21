@@ -3,14 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://karanveersp.github.io/codecommander/static/about/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <loc>https://karanveersp.github.io/codecommander/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://karanveersp.github.io/codecommander/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <loc>https://karanveersp.github.io/codecommander/2019/07/hello-world/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/codecommander/post/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/codecommander/tags/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/codecommander/tags/introduction/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/codecommander/tags/python/</loc>
+    <lastmod>2019-07-21T15:11:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/codecommander/static/about/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -21,11 +50,6 @@
   
   <url>
     <loc>https://karanveersp.github.io/codecommander/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karanveersp.github.io/codecommander/tags/</loc>
     <priority>0</priority>
   </url>
   
