@@ -28,7 +28,7 @@ publishDir = "docs"
 
 [[menu.navbar]]
  name = "About"
- url = "https://karanveersp.github.io/codecommander/static/about/"
+ url = "/static/about/"
  title = "About"
  active = true
 
