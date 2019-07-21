@@ -28,7 +28,7 @@ publishDir = "docs"
 
 [[menu.navbar]]
  name = "About"
- url = "/static/about/"
+ url = "/about/"
  title = "About"
  active = true
 
