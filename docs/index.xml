@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Karanveer</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 13:08:29 -0400</lastBuildDate>
     
 	<atom:link href="https://karanveersp.github.io/codecommander/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python Resources</title>
+      <link>https://karanveersp.github.io/codecommander/posts/python-resources/</link>
+      <pubDate>Sun, 29 Sep 2019 13:08:29 -0400</pubDate>
+      
+      <guid>https://karanveersp.github.io/codecommander/posts/python-resources/</guid>
+      <description>Learning python is easier than other languages for many reasons. One of the reasons is the tremendous amount of great, free resources to learn from. So here are some resources I found heplful.
+Books  Automate the Boring Stuff with Python - Shows how to write useful programs to do all sorts of things with python. Composing Programs - A python oriented take on the legendary SICP book/course. Think Python: How to Think Like a Computer Scientist - Get immersed in the details.</description>
+    </item>
     
     <item>
       <title>Hello World!</title>
